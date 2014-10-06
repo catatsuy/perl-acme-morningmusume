@@ -13,3 +13,5 @@ covered
 !LICENSE
 cpanfile.snapshot
 local/
+/perl-acme-morningmusume-*
+/Build.bat
